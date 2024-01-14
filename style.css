@@ -1,0 +1,34 @@
+body {
+    font-family: 'Instrument Sans', sans-serif;
+}
+
+header {
+    background-color: #16161a;
+    color: #2cb67d;
+}
+
+header h1 {
+    font-weight: bold;
+}
+
+main {
+    background-color: #242629;
+}
+
+.ms_card {
+    background-color: #16161a;
+    color: #94a1b2;
+}
+
+.ms_card h4 {
+    color: #fffffe;
+}
+
+#ms_modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .5);
+}

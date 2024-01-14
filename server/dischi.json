@@ -3,60 +3,42 @@
         "title": "The Beautiful & Damned",
         "artist": "G-Eazy",
         "realeseYear": "2017",
-        "cover": ""
+        "cover": "G-Eazy_-_The_Beautiful_&_Damned.png",
+        "tracks": 20
     },
     {
         "title": "Jackman.",
         "artist": "Jack Harlow",
         "realeseYear": "2023",
-        "cover": ""
+        "cover": "Jack_Harlow_-_Jackman.png",
+        "tracks": 10
     },
     {
         "title": "Hollywood's Bleeding",
         "artist": "Post Malone",
         "realeseYear": "2019",
-        "cover": ""
-    },
-    {
-        "title": "NOI, LORO, GLI ALTRI",
-        "artist": "Marracash",
-        "realeseYear": "2021",
-        "cover": ""
+        "cover": "Post_Malone_-_Hollywood's_Bleeding.png",
+        "tracks": 17
     },
     {
         "title": "HOPE",
         "artist": "NF",
         "realeseYear": "2023",
-        "cover": ""
-    },
-    {
-        "title": "IO NON HO PAURA",
-        "artist": "Ernia",
-        "realeseYear": "2022",
-        "cover": ""
+        "cover": "NF_-_Hope.png",
+        "tracks": 13
     },
     {
         "title": "The Marshall Mathers LP",
         "artist": "Eminem",
         "realeseYear": "2001",
-        "cover": ""
-    },
-    {
-        "title": "Aletheia",
-        "artist": "Izi",
-        "realeseYear": "2019",
-        "cover": ""
-    },
-    {
-        "title": "FLOP",
-        "artist": "Salmo",
-        "realeseYear": "2021",
-        "cover": ""
+        "cover": "The_Marshall_Mathers_LP.jpg",
+        "tracks": 23
     },
     {
         "title": "ADHD",
         "artist": "Joyner Lucas",
         "realeseYear": "2020",
-        "cover": ""
+        "cover": "Joyner_Lucas_-_ADHD.jpg",
+        "tracks": 18
     }
 ]
